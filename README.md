@@ -36,9 +36,9 @@ The _jupyter-auto-install.ps1_ scriot does the following in sequential order
     ```
 15. Change directory to project location
 16. Activate the virtual environment
-17. Install numphy library
-18. Install pandas library
-19. Install matplotlib library
+17. Install numphy library _[meant for numerical computing, providing powerful array operations and mathematical functions.]_
+18. Install pandas library _[meant for data manipulation and analysis, offering data structures and tools for working with structured data.]_
+19. Install matplotlib library _[meant for creating static, animated, and interactive visualizations in Python]_
 20. Install jupyter package
 21. Launch Jupyter notebook on local browser
 
