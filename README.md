@@ -7,6 +7,8 @@
 * This script will install the python libraries (numpy, pandas & matplotlib)
 * Finally install jupyter notebook and launch it in local browser
 
+---
+
 The _jupyter-auto-install.ps1_ scriot does the following in sequential order
 
 1. Prompt user to input Python version
